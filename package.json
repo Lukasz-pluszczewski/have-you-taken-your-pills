@@ -7,7 +7,7 @@
     "classnames": "^2.2.6",
     "eslint-config-brainhub": "Lukasz-pluszczewski/eslint-config-brainhub",
     "luxon": "^1.4.3",
-    "node-sass": "^4.9.4",
+    "node-sass": "^5.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
