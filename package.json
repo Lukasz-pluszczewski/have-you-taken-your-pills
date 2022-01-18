@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "antd": "^3.10.1",
+    "antd": "^3.16.4",
     "classnames": "^2.2.6",
     "eslint-config-brainhub": "Lukasz-pluszczewski/eslint-config-brainhub",
     "luxon": "^1.4.3",
